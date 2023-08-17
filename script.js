@@ -1,8 +1,8 @@
 
 // Define the list of songs with their file paths
 const songs = [
-    { title: 'Song 1', path: 'songs/clip1.mp3' },
-    { title: 'Song 2', path: 'songs/clip2.mp3' },
+    { title: 'Disco Jam', path: 'songs/clip1.mp3' },
+    { title: 'Can't Unsuck (Sneak Peak)', path: 'songs/clip2.mp3' },
     // Add more songs as needed
 ];
 // Get the song list element and the audio player element
