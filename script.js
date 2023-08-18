@@ -1,9 +1,8 @@
 
 // Define the list of songs with their file paths
 const songs = [
-    { title: 'Infinity Jam', path: 'songs/Infinity_Jam.mp3' },
-    { title: "Can't Unsuck", path: 'songs/Cant_Unsuck.mp3' },
-    // Add more songs as needed
+    { title: 'Song 1', path: 'https://drive.google.com/uc?export=download&id=1VE-XF-DAp5GO3VBND8YRkQvfsmfM7QVH' },
+    { title: 'Song 2', path: 'https://drive.google.com/uc?export=download&id=1qP28-A7MJa7e22MV-Nc7DXLWeUfvc4z7' }
 ];
 // Get the song list element and the audio player element
 const songList = document.getElementById('song-list');
